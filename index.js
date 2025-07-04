@@ -23,7 +23,7 @@ client.on('ready', async () => {
   client.user.setPresence({
     activities: [{
       name: '  ', // <-- الكلام الي بيطلع جمب اسمك
-      type: 'PLAYING',
+      type: 'STREAMING',
       url: 'https://twitch.tv/dl1', // <-- رابط تويتش عشان يصير بنفسجي ما يفرق وهمي او حقيقي
       assets: {
         largeImage: 'nagi_shinshiro', // <-- اسم الصورة 
