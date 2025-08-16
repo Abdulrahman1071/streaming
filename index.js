@@ -22,7 +22,7 @@ client.on('ready', async () => {
 
   client.user.setPresence({
     activities: [{
-      name: 'Chillin', // <-- الكلام الي بيطلع جمب اسمك
+      name: 'Sudo Delete Account', // <-- الكلام الي بيطلع جمب اسمك
       type: 'STREAMING',
       url: 'https://twitch.tv/dl1', // <-- رابط تويتش عشان يصير بنفسجي ما يفرق وهمي او حقيقي
       assets: {
