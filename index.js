@@ -28,7 +28,7 @@ client.on('ready', async () => {
         url: 'https://twitch.tv/dl1'
       }
     ],
-    status: 'online'
+    status: 'idle'
   });
 });
 
